@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.vscode/
+.idea/
+
+# Deployment notes live outside this repo on purpose.
+deployment/
+DEPLOYMENT*.md
+
+# local tooling
+.claude/
